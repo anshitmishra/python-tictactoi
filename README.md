@@ -20,7 +20,7 @@ uic.loadUi("tictactoi.ui",self) //check the path of ui file
 
 ## project screenshot
 
-![screenshoot](https://github.com/anshitmishra/python-stopwatch/blob/main/image/Screenshot.png?raw=true)
+![screenshoot](https://github.com/anshitmishra/python-tictactoi/blob/main/image/Screenshot.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
